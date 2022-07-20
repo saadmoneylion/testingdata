@@ -2,15 +2,4 @@
     "status": "PASSED",
     "code": "1",
     "description": "User's Eligibility Verification Successful",
-    "data": {
-        "transferType": "RM_TO_RM",
-        "sourceUser": {
-            "userId": "61e769092d097c2a61d51024",
-            "eligibility": "ELIGIBLE"
-        },
-        "targetUser": {
-            "userId": "619b483966e78c7922cdf96a",
-            "eligiblity": "ELIGIBLE"
-        }
-    }
 }
